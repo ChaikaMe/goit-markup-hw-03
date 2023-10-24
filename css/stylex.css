@@ -96,9 +96,6 @@ button{
     width: 100%;
     max-width: 456px;
     gap: 40px;
-}
-
-.page-nav-item{
     padding: 24px 0;
 }
 
@@ -303,6 +300,7 @@ button{
 
 .portfolio-item .item-format {
     border: 1px solid #E7E9FC;
+    border-top: none;
     padding: 32px 16px;
 }
 
