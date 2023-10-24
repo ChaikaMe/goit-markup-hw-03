@@ -101,7 +101,6 @@ button{
 .page-nav-list{
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .page-nav-link{
@@ -110,6 +109,7 @@ button{
     line-height: 1.50;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    padding: 24px 0;
 }
 
 .contact {
