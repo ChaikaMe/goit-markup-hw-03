@@ -48,7 +48,6 @@ button{
 /* ====================HEADER===================== */
 
 .index-header{
-    padding: 24px;
     background-color: #FFFFFF;
     border-bottom: 1px solid #E7E9FC; 
 }
@@ -66,6 +65,7 @@ button{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
 }
 
 .logo-span{
@@ -78,6 +78,10 @@ button{
     width: 100%;
     max-width: 456px;
     gap: 40px;
+}
+
+.page-nav-item{
+    padding: 24px 0;
 }
 
 .page-nav-list{
@@ -103,6 +107,7 @@ button{
     display: flex;
     justify-content: flex-end;
     max-width: 672px;
+    padding: 24px 0
 }
 
 .contact-link{
@@ -152,6 +157,11 @@ button{
     background-color: #4D5AE5;
     border-radius: 4px;
     padding: 16px 32px;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    display: block;
+    margin: 0 auto;
 } 
 
 .hero-button:hover,
