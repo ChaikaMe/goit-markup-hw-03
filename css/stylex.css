@@ -96,12 +96,12 @@ button{
     width: 100%;
     max-width: 456px;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .page-nav-list{
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 
 .page-nav-link{
